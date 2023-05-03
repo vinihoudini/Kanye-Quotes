@@ -1,0 +1,100 @@
+.bg-image {
+  background-image: url('https://media.gq.com/photos/56cb1d301388833772dbc1f8/16:9/w_2560%2Cc_limit/GettyImages-509641192.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+
+
+      body {
+        background-image: url('https://media.gq.com/photos/56cb1d301388833772dbc1f8/16:9/w_2560%2Cc_limit/GettyImages-509641192.jpg');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center center;
+      }
+
+      .overlay {
+        background-color: rgba(0, 0, 0, 0.6);
+        height: 100vh;
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+      }
+
+      
+
+      h2{
+        font-size: 2rem;
+        color: white;
+        margin-bottom: 2rem;
+        background-color: #db5f36;
+        border-color: #db5f36;
+        border: none;
+        display: inline-block;
+        padding: 5px 10px;    
+        
+        
+      }
+
+      label {
+        color: white;
+        background-color: #db5f36;
+        border: none;
+        display: inline-block;
+        padding: 5px 10px; 
+      }
+
+      p {
+        font-size: 2rem;
+        color: white;
+        margin-bottom: 3rem;
+
+        background-color: #db5f36;
+        border-color: #db5f36;
+
+        border: none;
+        display: inline-block;
+        padding: 5px 10px;  
+       
+      }
+
+      .btn {
+        font-size: 1.5rem;
+        padding: 1.5rem 2rem;
+        border-radius: 2rem;
+        text-transform: uppercase;
+      }
+
+      .btn-primary {
+        background-color: #f0ad4e;
+        border-color: #f0ad4e;
+        margin-right: 2rem;
+      }
+
+      .btn-primary:hover {
+        background-color: #eea236;
+        border-color: #eea236;
+      }
+
+     
+
+      .btn-secondary:hover {
+        background-color: #333;
+        border-color: #333;
+      }
+
+      .div-logout {
+        width: 100%;
+        text-align: center;
+        margin-top: 20px; /* espaçamento superior */
+        margin-bottom: 20px; /* espaçamento inferior */
+      }
+
+      .div-logout-button{
+        width: 100%;
+        text-align: center;
+        margin-top: 20px; /* espaçamento superior */
+        margin-bottom: 20px; /* espaçamento inferior */
+      }
