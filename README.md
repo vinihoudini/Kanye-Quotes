@@ -1,5 +1,5 @@
 # Kanye-Quotes
-Projeto Kanye quotes da cadeira de P.A.S (Projeto avançado em Software) 1
+Projeto em Andamento.
 
 O projeto "Kanye Quotes" é uma plataforma inovadora que utiliza uma API para coletar e retweetar as famosas citações do renomado rapper e produtor musical Kanye West em sua conta no Twitter. Essa iniciativa tem como objetivo destacar e propagar os pensamentos inspiradores, reflexões profundas e visões criativas únicas de Kanye West para um público mais amplo, permitindo que suas palavras alcancem uma audiência global e promovam a apreciação de sua perspectiva artística.
 
